@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NyBooksApp</string>
+
+    <string name="books_title">Books New York Times</string>
+</resources>

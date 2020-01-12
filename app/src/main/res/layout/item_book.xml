@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:elevation="5dp"
+    android:orientation="vertical"
+    android:padding="15dp">
+
+    <TextView
+        android:id="@+id/tvBookTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableStart="@drawable/ic_book_brown_24dp"
+        android:padding="2dp"
+        tools:text="Mais esperto que o Diabo" />
+
+    <TextView
+        android:id="@+id/tvBookAuthor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableStart="@drawable/ic_person_brown_24dp"
+        android:padding="2dp"
+        tools:text="Napoleon Hill" />
+
+</LinearLayout>
