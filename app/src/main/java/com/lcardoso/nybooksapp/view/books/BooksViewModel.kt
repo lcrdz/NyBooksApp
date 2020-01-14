@@ -34,9 +34,8 @@ class BooksViewModel : ViewModel() {
             }
 
             override fun onFailure(call: Call<BookResponse>, t: Throwable) {
-
+                println(t.message + "lelelelelel")
             }
-
         })
     }
 }

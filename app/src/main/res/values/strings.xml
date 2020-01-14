@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">NyBooksApp</string>
-
+    <!--    Books Activity-->
     <string name="books_title">Books New York Times</string>
+
+    <!--    Book Detail Activity-->
+    <string name="books_details_title">Title :</string>
+    <string name="books_details_description_label">Description :</string>
+    <string name="books_details_text_default">Title is here!</string>
 </resources>
